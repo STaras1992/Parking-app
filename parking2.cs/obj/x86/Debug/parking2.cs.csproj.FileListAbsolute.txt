@@ -1,0 +1,28 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.cs\parking2.cs\bin\Debug\parking2.cs.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.cs\parking2.cs\bin\Debug\parking2.cs.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.cs\parking2.cs\obj\x86\Debug\parking2.parking2.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.MaakavForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.1\parking2.cs\parking2.cs\bin\Debug\parking2.cs.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.1\parking2.cs\parking2.cs\bin\Debug\parking2.cs.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.parking2.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.MaakavForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.csproj.GenerateResource.Cache
+C:\MyProgs\Parking\New folder\parking2.1\parking2.cs\parking2.cs\bin\Debug\parking2.cs.exe
+C:\MyProgs\Parking\New folder\parking2.1\parking2.cs\parking2.cs\bin\Debug\parking2.cs.pdb
+C:\MyProgs\Parking\New folder\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.csprojAssemblyReference.cache
+C:\MyProgs\Parking\New folder\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.parking2.resources
+C:\MyProgs\Parking\New folder\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.MaakavForm.resources
+C:\MyProgs\Parking\New folder\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.Properties.Resources.resources
+C:\MyProgs\Parking\New folder\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.csproj.GenerateResource.cache
+C:\MyProgs\Parking\New folder\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.csproj.CoreCompileInputs.cache
+C:\MyProgs\Parking\New folder\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.exe
+C:\MyProgs\Parking\New folder\parking2.1\parking2.cs\parking2.cs\obj\x86\Debug\parking2.cs.pdb
